@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://jayme-portfolio.vercel.app/" target="blank">
 Jayme Ln</a></h1>
-<h3 align="center">A web developer from Peru, passionate about creating impactful web solutions. 🇵🇪</h3>
+<h3 align="center">Im data science developer from Peru 🇵🇪</h3>
 
 <div style="display:flex">
 <img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" style="width:50%">
