@@ -1,11 +1,9 @@
-
+![image](https://github.com/user-attachments/assets/fcf68cad-df37-4a06-b49c-b8ac461de2dc)
 <h1 align="center">Hi 👋, I'm <a href="https://jayme-portfolio.vercel.app/" target="blank">
 Jayme Ln</a></h1>
 <h3 align="center">Im data science developer from Peru 🇵🇪 </h3>
-
 <div style="display:flex">
-<img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" style="width:50%">
-<img src="https://firebasestorage.googleapis.com/v0/b/prueba-62d11.appspot.com/o/myTerminal.png?alt=media&token=0f9d19e3-0d8d-4803-952a-f6a04c84687e" style="width:50%">
+<img src="[https://firebasestorage.googleapis.com/v0/b/prueba-62d11.appspot.com/o/myTerminal.png?alt=media&token=0f9d19e3-0d8d-4803-952a-f6a04c84687e](https://github.com/user-attachments/assets/23e57b78-1d6e-4cca-afb1-ae08f895718f)" style="width:50%">
 </div>
 
 - 🔭 I’ve worked on various freelance projects, focusing on delivering high-quality web solutions
@@ -23,6 +21,7 @@ Jayme Ln</a></h1>
 
 
 🔥 My strongest abilities
+<img src="https://github.com/user-attachments/assets/7e9fabc2-86b5-47c9-ba07-1d1d797d5f51"  width="34px" height="34px"> </img>
 <p align="left" style="background:gray;color:white">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
